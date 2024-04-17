@@ -5,9 +5,9 @@ Bringing Mandarin learning experience to the next level! Inspired from the award
 
 ## How to Play
 - Launch the application
-- Select AR SCAN
+- Select `AR SCAN`
 - Scan the cards provided to learn the Mandarin word of the object.
-- Select POP QUIZ
+- Select `POP QUIZ`
 - Answer as many questions as you can before the time ends and earn points for each correct answer.
 
 ## Gallery
